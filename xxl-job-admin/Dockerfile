@@ -1,5 +1,4 @@
-FROM heliang230/centos:7.5.1804
-MAINTAINER xuxueli
+FROM openjdk:8-jre-alpine
 
 ENV PARAMS=""
 
