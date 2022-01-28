@@ -1,5 +1,4 @@
-FROM openjdk:8-jre-slim
-MAINTAINER xuxueli
+openjdk:8-jre-alpine
 
 ENV PARAMS=""
 
